@@ -1164,9 +1164,8 @@ footer > span{
   .contact{
     flex-direction: column;
     gap: 2rem;
-    padding: 20px;
     align-items: center;
-    width: 95%;
+    width: 100%;
   }
 
   .send-message, .in-touch{
